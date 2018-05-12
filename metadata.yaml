@@ -1,0 +1,42 @@
+_repo: Shirley_30486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brontë, Charlotte
+    aliases:
+    - Bronte, Charlotte
+    - Charlotte Brontë
+    - Bell, Currer
+    birthdate: 1816
+    deathdate: 1855
+    gutenberg_agent_id: '408'
+    url: http://www.gutenberg.org/2009/agents/408
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
+description: Set during the Napoleonic wars at a time of national economic struggles,
+  Shirley is an unsentimental yet passionate depiction of conflict among classes,
+  sexes, and generations. Struggling manufacturer Robert Moore considers marriage
+  to the wealthy and independent Shirley Keeldar, yet his heart lies with his cousin
+  Caroline. Shirley, meanwhile, is in love with Robert's brother, an impoverished
+  tutor. As industrial unrest builds to a potentially fatal pitch, can the four be
+  reconciled?
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2009-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Textile industry -- Fiction'
+title: Shirley
+url: http://www.gutenberg.org/ebooks/30486
